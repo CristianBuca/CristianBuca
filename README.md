@@ -1,5 +1,5 @@
 # CristianB's Github Profile
-📫 Feel free to reach out on:
+📫 You can find more about me on:
 
 <a target="_blank" href="https://www.linkedin.com/in/cristianbuca/"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
  
@@ -34,7 +34,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
 
-### 🔧 Thechnologies I am currently studying:
+### 🔧 Technologies I am currently studying:
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
