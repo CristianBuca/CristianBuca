@@ -1,10 +1,7 @@
 # CristianB's Github Profile
-📫 You can find more about me on:
 
 <a target="_blank" href="https://www.linkedin.com/in/cristianbuca/"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
  
-
-### &#x1f4c8; Github Stats 
 ![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBuca&theme=chartreuse-dark&show_icons=true)
 
 ### 🔧 Technologies & Tools used previously used in my projects:
