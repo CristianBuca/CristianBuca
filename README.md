@@ -4,6 +4,8 @@
  
 ![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBuca&theme=chartreuse-dark&show_icons=true)
 
+---
+
 ### 🔧 Technologies & Tools used in my projects:
 
 #### Languages
@@ -28,11 +30,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 
-#### Version Control, Hosting & other tech and tools 
+#### Version Control, Hosting & other tech and tools
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
-![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC) 
+![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white) 
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
+![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+
+---
+
+### Deployed Projects:
+
+- [**Moto Style**](https://ms4-motostyle.herokuapp.com):
+
+E-commerce project developed using tecnologies across the full stack:  
+Python, Django, PostgreSQL, AWS S3, Stripe API, jQuery, JavaScript, Bootstrap, CSS, HTML
+
+[![Moto Style](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_motostyle.jpg)](https://ms4-motostyle.herokuapp.com)
