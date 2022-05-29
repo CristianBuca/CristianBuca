@@ -49,3 +49,10 @@ E-commerce project developed using tecnologies across the full stack:
 Python, Django, PostgreSQL, AWS S3, Stripe API, jQuery, JavaScript, Bootstrap, CSS, HTML
 
 [![Moto Style](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_motostyle.jpg)](https://ms4-motostyle.herokuapp.com)
+
+- [**Top Shelf Scotch**](http://ms3-top-shelf.herokuapp.com):
+
+Data-centric project developed using:  
+Python, Flask, MongoDB, jQuery, JavaScript, MaterializeCSS, CSS, HTML
+
+[![Top Shelf Scotch](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_topshelf.jpg)](http://ms3-top-shelf.herokuapp.com)
