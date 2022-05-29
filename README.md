@@ -50,6 +50,7 @@ Python, Django, PostgreSQL, AWS S3, Stripe API, jQuery, JavaScript, Bootstrap, C
 
 [![Moto Style](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_motostyle.jpg)](https://ms4-motostyle.herokuapp.com)
 
+---
 - [**Top Shelf Scotch**](http://ms3-top-shelf.herokuapp.com):
 
 Data-centric project developed using:  
@@ -57,6 +58,7 @@ Python, Flask, MongoDB, jQuery, JavaScript, MaterializeCSS, CSS3, HTML5
 
 [![Top Shelf Scotch](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_topshelf.jpg)](http://ms3-top-shelf.herokuapp.com)
 
+---
 - [**My Crypto**](https://cristianbuca.github.io/MS2_MyCrypto/):
 
 Interactive front-end project developed using:  
@@ -64,9 +66,12 @@ jQuery, JavaScript, Coingeko API, EmailJS API, CSS3, HTML5
 
 [![My Crypto](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_mycrypto.PNG)](https://cristianbuca.github.io/MS2_MyCrypto/)
 
+---
 - [**The Aunans**](https://cristianbuca.github.io/The-Aunans/):
 
 Static front-end project developed using:  
 Bootstrap, CSS3, HTML5  
 
 [![The Aunans](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_aunans.png)](https://cristianbuca.github.io/The-Aunans/)
+
+---
