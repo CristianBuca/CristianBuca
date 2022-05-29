@@ -46,13 +46,20 @@
 - [**Moto Style**](https://ms4-motostyle.herokuapp.com):
 
 E-commerce project developed using tecnologies across the full stack:  
-Python, Django, PostgreSQL, AWS S3, Stripe API, jQuery, JavaScript, Bootstrap, CSS, HTML
+Python, Django, PostgreSQL, AWS S3, Stripe API, jQuery, JavaScript, Bootstrap, CSS, HTML  
 
 [![Moto Style](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_motostyle.jpg)](https://ms4-motostyle.herokuapp.com)
 
 - [**Top Shelf Scotch**](http://ms3-top-shelf.herokuapp.com):
 
 Data-centric project developed using:  
-Python, Flask, MongoDB, jQuery, JavaScript, MaterializeCSS, CSS, HTML
+Python, Flask, MongoDB, jQuery, JavaScript, MaterializeCSS, CSS, HTML  
 
 [![Top Shelf Scotch](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_topshelf.jpg)](http://ms3-top-shelf.herokuapp.com)
+
+- [**My Crypto**](https://cristianbuca.github.io/MS2_MyCrypto/):
+
+Interactive front-end project developed using:  
+jQuery, JavaScript, Coingeko API, EmailJS API, CSS, HTML  
+
+[![Top Shelf Scotch](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_mycrypto.PNG)](https://cristianbuca.github.io/MS2_MyCrypto/)
