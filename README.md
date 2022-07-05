@@ -1,8 +1,6 @@
 # CristianB's Github Profile
 
 <a target="_blank" href="https://www.linkedin.com/in/cristianbuca/"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
- 
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBuca&theme=chartreuse-dark&show_icons=true)
 
 ---
 
@@ -75,3 +73,5 @@ Bootstrap, CSS3, HTML5
 [![The Aunans](https://github.com/CristianBuca/CristianBuca/blob/main/responsive_design_aunans.png)](https://cristianbuca.github.io/The-Aunans/)
 
 ---
+
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianBuca&theme=chartreuse-dark&show_icons=true)
